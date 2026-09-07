@@ -1,0 +1,2261 @@
+{
+  "total": 100,
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Sueño de fuga / Cadena perpetua",
+      "titulo_original": "The Shawshank Redemption",
+      "anio": 1994,
+      "director": "Frank Darabont",
+      "generos": [
+        "Drama"
+      ],
+      "duracion": 142,
+      "calificacion": 9.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Dos hombres encarcelados forjan un vínculo a lo largo de los años, encontrando consuelo y redención eventual a través de actos de decencia común.",
+      "reparto_principal": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "El padrino",
+      "titulo_original": "The Godfather",
+      "anio": 1972,
+      "director": "Francis Ford Coppola",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 175,
+      "calificacion": 9.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "El patriarca envejecido de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su reacio hijo.",
+      "reparto_principal": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Diane Keaton"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "El caballero de la noche",
+      "titulo_original": "The Dark Knight",
+      "anio": 2008,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 152,
+      "calificacion": 9.0,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Cuando la amenaza conocida como el Joker siembra el caos en Gotham, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para combatir la injusticia.",
+      "reparto_principal": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "El padrino: Parte II",
+      "titulo_original": "The Godfather Part II",
+      "anio": 1974,
+      "director": "Francis Ford Coppola",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 202,
+      "calificacion": 9.0,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Se retratan los inicios de la vida y la carrera de Vito Corleone en la década de 1920 en Nueva York, mientras su hijo Michael expande el sindicato familiar a Las Vegas, Hollywood y Cuba.",
+      "reparto_principal": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall",
+        "Diane Keaton"
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "12 hombres en pugna",
+      "titulo_original": "12 Angry Men",
+      "anio": 1957,
+      "director": "Sidney Lumet",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 96,
+      "calificacion": 9.0,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un miembro del jurado intenta evitar un error judicial convenciendo a los demás de que el caso no es tan claro como parece.",
+      "reparto_principal": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam",
+        "Jack Warden"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "La lista de Schindler",
+      "titulo_original": "Schindler's List",
+      "anio": 1993,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Biografía",
+        "Drama",
+        "Historia"
+      ],
+      "duracion": 195,
+      "calificacion": 9.0,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "En la Polonia ocupada por los alemanes durante la Segunda Guerra Mundial, Oskar Schindler poco a poco se preocupa por su fuerza laboral judía tras presenciar su persecución.",
+      "reparto_principal": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley",
+        "Caroline Goodall"
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "El señor de los anillos: El retorno del rey",
+      "titulo_original": "The Lord of the Rings: The Return of the King",
+      "anio": 2003,
+      "director": "Peter Jackson",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 201,
+      "calificacion": 9.0,
+      "pais": "Nueva Zelanda",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Gandalf y Aragorn lideran el Mundo de los Hombres contra el ejército de Sauron para desviar su mirada de Frodo y Sam mientras se acercan al Monte del Destino.",
+      "reparto_principal": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Pulp Fiction",
+      "titulo_original": "Pulp Fiction",
+      "anio": 1994,
+      "director": "Quentin Tarantino",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 154,
+      "calificacion": 8.9,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gángster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+      "reparto_principal": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis"
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "El señor de los anillos: La comunidad del anillo",
+      "titulo_original": "The Lord of the Rings: The Fellowship of the Ring",
+      "anio": 2001,
+      "director": "Peter Jackson",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 178,
+      "calificacion": 8.9,
+      "pais": "Nueva Zelanda",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un tímido hobbit de la Comarca y ocho compañeros emprenden un viaje para destruir el poderoso Anillo Único y salvar a la Tierra Media del Señor Oscuro Sauron.",
+      "reparto_principal": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom",
+        "Sean Bean"
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "El bueno, el malo y el feo",
+      "titulo_original": "Il buono, il brutto, il cattivo",
+      "anio": 1966,
+      "director": "Sergio Leone",
+      "generos": [
+        "Aventura",
+        "Western"
+      ],
+      "duracion": 178,
+      "calificacion": 8.8,
+      "pais": "Italia",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Durante la Guerra Civil estadounidense, tres hombres se lanzan a la búsqueda de una fortuna enterrada en oro confederado.",
+      "reparto_principal": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef",
+        "Aldo Giuffrè"
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "Forrest Gump",
+      "titulo_original": "Forrest Gump",
+      "anio": 1994,
+      "director": "Robert Zemeckis",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "duracion": 142,
+      "calificacion": 8.8,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "La historia de varias décadas en la vida de Forrest Gump, un hombre de Alabama con discapacidad intelectual pero de gran corazón que presencia momentos históricos cruciales.",
+      "reparto_principal": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise",
+        "Sally Field"
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "El club de la pelea",
+      "titulo_original": "Fight Club",
+      "anio": 1999,
+      "director": "David Fincher",
+      "generos": [
+        "Drama"
+      ],
+      "duracion": 139,
+      "calificacion": 8.8,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un empleado de oficina que sufre de insomnio y un fabricante de jabón desmotivado fundan un club de peleas clandestino que se convierte en algo mucho más peligroso.",
+      "reparto_principal": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter",
+        "Meat Loaf"
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "El señor de los anillos: Las dos torres",
+      "titulo_original": "The Lord of the Rings: The Two Towers",
+      "anio": 2002,
+      "director": "Peter Jackson",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 179,
+      "calificacion": 8.8,
+      "pais": "Nueva Zelanda",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Mientras Frodo y Sam se acercan a Mordor con la ayuda de Gollum, la comunidad dividida resiste contra el nuevo aliado de Sauron, Saruman.",
+      "reparto_principal": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Andy Serkis"
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "El origen",
+      "titulo_original": "Inception",
+      "anio": 2010,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Ciencia Ficción"
+      ],
+      "duracion": 148,
+      "calificacion": 8.8,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un ladrón que roba secretos corporativos a través del uso de tecnología para compartir sueños recibe la tarea inversa de implantar una idea en la mente de un CEO.",
+      "reparto_principal": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy"
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Star Wars: Episodio V - El imperio contraataca",
+      "titulo_original": "Star Wars: Episode V - The Empire Strikes Back",
+      "anio": 1980,
+      "director": "Irvin Kershner",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 124,
+      "calificacion": 8.7,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Tras ser dominados por el Imperio, los rebeldes se dispersan. Luke Skywalker comienza su entrenamiento Jedi con Yoda mientras sus amigos son perseguidos por Darth Vader.",
+      "reparto_principal": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Matrix",
+      "titulo_original": "The Matrix",
+      "anio": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "generos": [
+        "Acción",
+        "Ciencia Ficción"
+      ],
+      "duracion": 136,
+      "calificacion": 8.7,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Cuando un hacker informático descubre que la realidad es una simulación creada por máquinas inteligentes, se une a una rebelión para liberar a la humanidad.",
+      "reparto_principal": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving"
+      ]
+    },
+    {
+      "id": 17,
+      "titulo": "Buenos muchachos",
+      "titulo_original": "Goodfellas",
+      "anio": 1990,
+      "director": "Martin Scorsese",
+      "generos": [
+        "Biografía",
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 145,
+      "calificacion": 8.7,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "La historia de Henry Hill y su vida en la mafia, cubriendo su relación con su esposa Karen y sus socios de la mafia Jimmy Conway y Tommy DeVito.",
+      "reparto_principal": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci",
+        "Lorraine Bracco"
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "Atrapado sin salida",
+      "titulo_original": "One Flew Over the Cuckoo's Nest",
+      "anio": 1975,
+      "director": "Milos Forman",
+      "generos": [
+        "Drama"
+      ],
+      "duracion": 133,
+      "calificacion": 8.7,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un criminal rebelde finge locura para cumplir su condena en una institución psiquiátrica, donde lidera a los pacientes en una rebelión contra una enfermera autoritaria.",
+      "reparto_principal": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Will Sampson",
+        "Danny DeVito"
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "Se7en: Pecados capitales",
+      "titulo_original": "Se7en",
+      "anio": 1995,
+      "director": "David Fincher",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 127,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Dos detectives, un novato y un veterano a punto de jubilarse, persiguen a un asesino en serie que utiliza los siete pecados capitales como motivo de sus crímenes.",
+      "reparto_principal": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey",
+        "Gwyneth Paltrow"
+      ]
+    },
+    {
+      "id": 20,
+      "titulo": "Interstellar",
+      "titulo_original": "Interstellar",
+      "anio": 2014,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Aventura",
+        "Drama",
+        "Ciencia Ficción"
+      ],
+      "duracion": 169,
+      "calificacion": 8.7,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Cuando la Tierra se vuelve inhabitable en el futuro, un granjero y expiloto de la NASA, Joseph Cooper, tiene la misión de pilotar una nave espacial para encontrar un nuevo planeta para la humanidad.",
+      "reparto_principal": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine"
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Los siete samuráis",
+      "titulo_original": "Shichinin no Samurai",
+      "anio": 1954,
+      "director": "Akira Kurosawa",
+      "generos": [
+        "Acción",
+        "Drama"
+      ],
+      "duracion": 207,
+      "calificacion": 8.6,
+      "pais": "Japón",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un pueblo de agricultores indefensos contrata a siete samuráis sin amo para que los protejan de bandidos sanguinarios.",
+      "reparto_principal": [
+        "Toshirô Mifune",
+        "Takashi Shimura",
+        "Keiko Tsushima",
+        "Yukiko Shimazaki"
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "¡Qué bello es vivir!",
+      "titulo_original": "It's a Wonderful Life",
+      "anio": 1946,
+      "director": "Frank Capra",
+      "generos": [
+        "Drama",
+        "Fantasía",
+        "Familia"
+      ],
+      "duracion": 130,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un ángel es enviado del cielo para ayudar a un empresario desesperado mostrándole cómo habría sido la vida de su comunidad si él nunca hubiera existido.",
+      "reparto_principal": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell"
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "El silencio de los inocentes",
+      "titulo_original": "The Silence of the Lambs",
+      "anio": 1991,
+      "director": "Jonathan Demme",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Thriller"
+      ],
+      "duracion": 118,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Una joven cadete del FBI debe recibir la ayuda de un manipulador asesino caníbal convicto para atrapar a otro asesino en serie que desuella a sus víctimas.",
+      "reparto_principal": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Ciudad de Dios",
+      "titulo_original": "Cidade de Deus",
+      "anio": 2002,
+      "director": "Fernando Meirelles, Kátia Lund",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 130,
+      "calificacion": 8.6,
+      "pais": "Brasil",
+      "clasificacion_edad": "+18",
+      "sinopsis": "En los barrios marginales de Río de Janeiro, los caminos de dos jóvenes divergen mientras uno lucha por convertirse en fotógrafo y el otro en un narcotraficante despiadado.",
+      "reparto_principal": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Phellipe Haagensen",
+        "Douglas Silva"
+      ]
+    },
+    {
+      "id": 25,
+      "titulo": "Rescatando al soldado Ryan",
+      "titulo_original": "Saving Private Ryan",
+      "anio": 1998,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Drama",
+        "Guerra"
+      ],
+      "duracion": 169,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Tras el desembarco de Normandía, un grupo de soldados estadounidenses se adentra tras las líneas enemigas para recuperar a un paracaidista cuyos hermanos han muerto en combate.",
+      "reparto_principal": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore",
+        "Edward Burns"
+      ]
+    },
+    {
+      "id": 26,
+      "titulo": "La vida es bella",
+      "titulo_original": "La vita è bella",
+      "anio": 1997,
+      "director": "Roberto Benigni",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "duracion": 116,
+      "calificacion": 8.6,
+      "pais": "Italia",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Cuando un camarero judío italiano y su hijo son enviados a un campo de concentración, usa su imaginación y humor para proteger a su hijo de la devastadora realidad.",
+      "reparto_principal": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini",
+        "Giustino Durano"
+      ]
+    },
+    {
+      "id": 27,
+      "titulo": "El viaje de Chihiro",
+      "titulo_original": "Sen to Chihiro no kamikakushi",
+      "anio": 2001,
+      "director": "Hayao Miyazaki",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 125,
+      "calificacion": 8.6,
+      "pais": "Japón",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Durante el traslado de su familia a los suburbios, una niña de 10 años se adentra en un mundo gobernado por dioses, brujas y espíritus, donde los humanos se convierten en bestias.",
+      "reparto_principal": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki",
+        "Takashi Naitô"
+      ]
+    },
+    {
+      "id": 28,
+      "titulo": "Milagros inesperados / La milla verde",
+      "titulo_original": "The Green Mile",
+      "anio": 1999,
+      "director": "Frank Darabont",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Fantasía"
+      ],
+      "duracion": 189,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Los guardias del corredor de la muerte de una penitenciaría presencian eventos sobrenaturales tras la llegada de un recluso enigmático con un don milagroso.",
+      "reparto_principal": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse",
+        "Bonnie Hunt"
+      ]
+    },
+    {
+      "id": 29,
+      "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
+      "titulo_original": "Star Wars: Episode IV - A New Hope",
+      "anio": 1977,
+      "director": "George Lucas",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 121,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Luke Skywalker une fuerzas con un caballero Jedi, un piloto arrogante, un wookiee y dos droides para rescatar a una princesa y salvar la galaxia.",
+      "reparto_principal": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Alec Guinness"
+      ]
+    },
+    {
+      "id": 30,
+      "titulo": "Terminator 2: El juicio final",
+      "titulo_original": "Terminator 2: Judgment Day",
+      "anio": 1991,
+      "director": "James Cameron",
+      "generos": [
+        "Acción",
+        "Ciencia Ficción"
+      ],
+      "duracion": 137,
+      "calificacion": 8.6,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un ciborg idéntico al que intentó matar a Sarah Connor debe proteger a su hijo de diez años de un ciborg más avanzado y letal hecho de metal líquido.",
+      "reparto_principal": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick"
+      ]
+    },
+    {
+      "id": 31,
+      "titulo": "Parásitos",
+      "titulo_original": "Gisaengchung",
+      "anio": 2019,
+      "director": "Bong Joon Ho",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Thriller"
+      ],
+      "duracion": 132,
+      "calificacion": 8.5,
+      "pais": "Corea del Sur",
+      "clasificacion_edad": "+16",
+      "sinopsis": "La codicia y la discriminación de clases amenazan la recién formada relación simbiótica entre la adinerada familia Park y el empobrecido clan Kim.",
+      "reparto_principal": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik"
+      ]
+    },
+    {
+      "id": 32,
+      "titulo": "Volver al futuro",
+      "titulo_original": "Back to the Future",
+      "anio": 1985,
+      "director": "Robert Zemeckis",
+      "generos": [
+        "Aventura",
+        "Comedia",
+        "Ciencia Ficción"
+      ],
+      "duracion": 116,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Marty McFly, un estudiante de secundaria, viaja accidentalmente 30 años al pasado en un DeLorean modificado por un excéntrico científico.",
+      "reparto_principal": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson",
+        "Crispin Glover"
+      ]
+    },
+    {
+      "id": 33,
+      "titulo": "El pianista",
+      "titulo_original": "The Pianist",
+      "anio": 2002,
+      "director": "Roman Polanski",
+      "generos": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "duracion": 150,
+      "calificacion": 8.5,
+      "pais": "Francia",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un talentoso pianista judío polaco lucha por sobrevivir a la destrucción del gueto de Varsovia durante la Segunda Guerra Mundial.",
+      "reparto_principal": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Frank Finlay",
+        "Emilia Fox"
+      ]
+    },
+    {
+      "id": 34,
+      "titulo": "Psicosis",
+      "titulo_original": "Psycho",
+      "anio": 1960,
+      "director": "Alfred Hitchcock",
+      "generos": [
+        "Horror",
+        "Misterio",
+        "Thriller"
+      ],
+      "duracion": 109,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Una secretaria huye con una gran suma de dinero y se hospeda en un remoto motel administrado por un joven tímido bajo el dominio de su madre.",
+      "reparto_principal": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin"
+      ]
+    },
+    {
+      "id": 35,
+      "titulo": "El rey león",
+      "titulo_original": "The Lion King",
+      "anio": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Drama"
+      ],
+      "duracion": 88,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un cachorro de león príncipe huye de su reino tras la muerte de su padre, creyéndose culpable, solo para descubrir su verdadero destino como heredero legítimo.",
+      "reparto_principal": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones",
+        "Whoopi Goldberg"
+      ]
+    },
+    {
+      "id": 36,
+      "titulo": "Gladiador",
+      "titulo_original": "Gladiator",
+      "anio": 2000,
+      "director": "Ridley Scott",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "duracion": 155,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un exgeneral romano busca venganza contra el emperador corrupto que asesinó a su familia y lo condenó a la esclavitud como gladiador.",
+      "reparto_principal": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed"
+      ]
+    },
+    {
+      "id": 37,
+      "titulo": "El precio del poder / Cara cortada",
+      "titulo_original": "Scarface",
+      "anio": 1983,
+      "director": "Brian De Palma",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 170,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "En 1980 en Miami, un decidido refugiado cubano asume el control de un cartel de drogas y sucumbe a la codicia insaciable y la paranoia.",
+      "reparto_principal": [
+        "Al Pacino",
+        "Michelle Pfeiffer",
+        "Steven Bauer",
+        "Robert Loggia"
+      ]
+    },
+    {
+      "id": 38,
+      "titulo": "Los infiltrados",
+      "titulo_original": "The Departed",
+      "anio": 2006,
+      "director": "Martin Scorsese",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Thriller"
+      ],
+      "duracion": 151,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un policía encubierto y un topo en la policía de Boston intentan identificarse mutuamente mientras se infiltran en una banda criminal irlandesa.",
+      "reparto_principal": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson",
+        "Mark Wahlberg"
+      ]
+    },
+    {
+      "id": 39,
+      "titulo": "Whiplash: Música y obsesión",
+      "titulo_original": "Whiplash",
+      "anio": 2014,
+      "director": "Damien Chazelle",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "duracion": 106,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un prometedor y ambicioso baterista de jazz es llevado al límite de sus capacidades por un implacable y despiadado instructor de conservatorio.",
+      "reparto_principal": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser",
+        "Melissa Benoist"
+      ]
+    },
+    {
+      "id": 40,
+      "titulo": "El gran truco / El prestigio",
+      "titulo_original": "The Prestige",
+      "anio": 2006,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficción"
+      ],
+      "duracion": 130,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Tras un trágico accidente, dos magos de escenario en Londres entablan una feroz y obsesiva batalla para crear la ilusión definitiva.",
+      "reparto_principal": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson",
+        "Michael Caine"
+      ]
+    },
+    {
+      "id": 41,
+      "titulo": "Casablanca",
+      "titulo_original": "Casablanca",
+      "anio": 1942,
+      "director": "Michael Curtiz",
+      "generos": [
+        "Drama",
+        "Romance",
+        "Guerra"
+      ],
+      "duracion": 102,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un cínico expatriado estadounidense propietario de un club nocturno debe elegir entre su amor por una mujer y ayudarla a escapar con su esposo, un líder de la resistencia.",
+      "reparto_principal": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains"
+      ]
+    },
+    {
+      "id": 42,
+      "titulo": "La ventana indiscreta",
+      "titulo_original": "Rear Window",
+      "anio": 1954,
+      "director": "Alfred Hitchcock",
+      "generos": [
+        "Misterio",
+        "Thriller"
+      ],
+      "duracion": 112,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un fotógrafo confinado a una silla de ruedas debido a una pierna rota espía a sus vecinos desde la ventana de su patio y comienza a sospechar que uno de ellos ha cometido un asesinato.",
+      "reparto_principal": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey",
+        "Thelma Ritter"
+      ]
+    },
+    {
+      "id": 43,
+      "titulo": "Alien, el octavo pasajero",
+      "titulo_original": "Alien",
+      "anio": 1979,
+      "director": "Ridley Scott",
+      "generos": [
+        "Horror",
+        "Ciencia Ficción"
+      ],
+      "duracion": 117,
+      "calificacion": 8.5,
+      "pais": "Reino Unido",
+      "clasificacion_edad": "+16",
+      "sinopsis": "La tripulación de una nave de carga comercial investiga una misteriosa transmisión de auxilio y se encuentra con una forma de vida letal e implacable.",
+      "reparto_principal": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "John Hurt",
+        "Veronica Cartwright"
+      ]
+    },
+    {
+      "id": 44,
+      "titulo": "Apocalipsis ahora",
+      "titulo_original": "Apocalypse Now",
+      "anio": 1979,
+      "director": "Francis Ford Coppola",
+      "generos": [
+        "Drama",
+        "Misterio",
+        "Guerra"
+      ],
+      "duracion": 147,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Durante la Guerra de Vietnam, un oficial del ejército estadounidense recibe la orden de remontar un río peligroso para asesinar a un coronel renegado que ha enloquecido.",
+      "reparto_principal": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Robert Duvall",
+        "Frederic Forrest"
+      ]
+    },
+    {
+      "id": 45,
+      "titulo": "Memento",
+      "titulo_original": "Memento",
+      "anio": 2000,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Misterio",
+        "Thriller"
+      ],
+      "duracion": 113,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un hombre con pérdida de memoria a corto plazo intenta rastrear al asesino de su esposa utilizando un elaborado sistema de notas y tatuajes corporales.",
+      "reparto_principal": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano",
+        "Mark Boone Junior"
+      ]
+    },
+    {
+      "id": 46,
+      "titulo": "Indiana Jones: Los cazadores del arca perdida",
+      "titulo_original": "Raiders of the Lost Ark",
+      "anio": 1981,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "duracion": 115,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "En 1936, el arqueólogo y aventurero Indiana Jones es contratado por el gobierno de EE.UU. para encontrar el Arca de la Alianza antes de que los nazis obtengan sus poderes.",
+      "reparto_principal": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman",
+        "John Rhys-Davies"
+      ]
+    },
+    {
+      "id": 47,
+      "titulo": "Django sin cadenas",
+      "titulo_original": "Django Unchained",
+      "anio": 2012,
+      "director": "Quentin Tarantino",
+      "generos": [
+        "Drama",
+        "Western"
+      ],
+      "duracion": 165,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Con la ayuda de un cazarrecompensas alemán, un esclavo liberado se propone rescatar a su esposa de un despiadado dueño de una plantación en Misisipi.",
+      "reparto_principal": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio",
+        "Kerry Washington"
+      ]
+    },
+    {
+      "id": 48,
+      "titulo": "WALL·E",
+      "titulo_original": "WALL·E",
+      "anio": 2008,
+      "director": "Andrew Stanton",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Familia",
+        "Ciencia Ficción"
+      ],
+      "duracion": 98,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "En un futuro lejano y desolado, un pequeño robot recolector de basura se embarca inadvertidamente en un viaje espacial que decidirá el destino de la humanidad.",
+      "reparto_principal": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin",
+        "Fred Willard"
+      ]
+    },
+    {
+      "id": 49,
+      "titulo": "El resplandor",
+      "titulo_original": "The Shining",
+      "anio": 1980,
+      "director": "Stanley Kubrick",
+      "generos": [
+        "Drama",
+        "Horror"
+      ],
+      "duracion": 146,
+      "calificacion": 8.4,
+      "pais": "Reino Unido",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en el padre hacia la violencia mientras su hijo tiene visiones perturbadoras.",
+      "reparto_principal": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers"
+      ]
+    },
+    {
+      "id": 50,
+      "titulo": "La naranja mecánica",
+      "titulo_original": "A Clockwork Orange",
+      "anio": 1971,
+      "director": "Stanley Kubrick",
+      "generos": [
+        "Crimen",
+        "Ciencia Ficción"
+      ],
+      "duracion": 136,
+      "calificacion": 8.3,
+      "pais": "Reino Unido",
+      "clasificacion_edad": "+18",
+      "sinopsis": "En una Gran Bretaña distópica, un líder carismático de una pandilla de delincuentes juveniles es encarcelado y se somete a una terapia experimental de aversión a la violencia.",
+      "reparto_principal": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates",
+        "Warren Clarke"
+      ]
+    },
+    {
+      "id": 51,
+      "titulo": "Vértigo",
+      "titulo_original": "Vertigo",
+      "anio": 1958,
+      "director": "Alfred Hitchcock",
+      "generos": [
+        "Misterio",
+        "Romance",
+        "Thriller"
+      ],
+      "duracion": 128,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un detective de la policía de San Francisco con acrofobia investiga las extrañas actividades de la esposa de un viejo amigo, volviéndose peligrosamente obsesionado con ella.",
+      "reparto_principal": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore"
+      ]
+    },
+    {
+      "id": 52,
+      "titulo": "El ciudadano Kane",
+      "titulo_original": "Citizen Kane",
+      "anio": 1941,
+      "director": "Orson Welles",
+      "generos": [
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 119,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Tras la muerte del magnate de la prensa Charles Foster Kane, los reporteros se apresuran por descubrir el significado de su última palabra pronunciada: 'Rosebud'.",
+      "reparto_principal": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Dorothy Comingore",
+        "Agnes Moorehead"
+      ]
+    },
+    {
+      "id": 53,
+      "titulo": "Tiempos modernos",
+      "titulo_original": "Modern Times",
+      "anio": 1936,
+      "director": "Charles Chaplin",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "duracion": 87,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un pequeño vagabundo lucha por sobrevivir en el mundo industrial moderno e implacable con la ayuda de una joven huérfana.",
+      "reparto_principal": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Henry Bergman",
+        "Tiny Sandford"
+      ]
+    },
+    {
+      "id": 54,
+      "titulo": "Luces de la ciudad",
+      "titulo_original": "City Lights",
+      "anio": 1931,
+      "director": "Charles Chaplin",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "duracion": 87,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "El vagabundo se enamora de una florista ciega y hace todo lo posible por conseguir dinero para que ella pueda someterse a una operación que le devuelva la vista.",
+      "reparto_principal": [
+        "Charles Chaplin",
+        "Virginia Cherrill",
+        "Florence Lee",
+        "Harry Myers"
+      ]
+    },
+    {
+      "id": 55,
+      "titulo": "Cinema Paradiso",
+      "titulo_original": "Nuovo Cinema Paradiso",
+      "anio": 1988,
+      "director": "Giuseppe Tornatore",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "duracion": 155,
+      "calificacion": 8.5,
+      "pais": "Italia",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un cineasta de renombre recuerda su infancia enamorado de las películas en el cine de su pueblo natal y su estrecha amistad con el proyeccionista.",
+      "reparto_principal": [
+        "Philippe Noiret",
+        "Enzo Cannavale",
+        "Antonella Attili",
+        "Salvatore Cascio"
+      ]
+    },
+    {
+      "id": 56,
+      "titulo": "El gran dictador",
+      "titulo_original": "The Great Dictator",
+      "anio": 1940,
+      "director": "Charles Chaplin",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Guerra"
+      ],
+      "duracion": 125,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "El dictador Adenoid Hynkel intenta expandir su imperio mientras un barbero judío perseguido intenta evitar la persecución de su régimen.",
+      "reparto_principal": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Jack Oakie",
+        "Reginald Gardiner"
+      ]
+    },
+    {
+      "id": 57,
+      "titulo": "La tumba de las luciérnagas",
+      "titulo_original": "Hotaru no Haka",
+      "anio": 1988,
+      "director": "Isao Takahata",
+      "generos": [
+        "Animación",
+        "Drama",
+        "Guerra"
+      ],
+      "duracion": 89,
+      "calificacion": 8.5,
+      "pais": "Japón",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un joven y su pequeña hermana luchan desesperadamente por sobrevivir en el Japón rural durante los últimos meses de la Segunda Guerra Mundial.",
+      "reparto_principal": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Yoshiko Shinohara",
+        "Akemi Yamaguchi"
+      ]
+    },
+    {
+      "id": 58,
+      "titulo": "Cantando bajo la lluvia",
+      "titulo_original": "Singin' in the Rain",
+      "anio": 1952,
+      "director": "Stanley Donen, Gene Kelly",
+      "generos": [
+        "Comedia",
+        "Musical",
+        "Romance"
+      ],
+      "duracion": 103,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Una estrella del cine mudo lidia con la complicada transición de su estudio a la era del cine sonoro mientras se enamora de una talentosa corista.",
+      "reparto_principal": [
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds",
+        "Jean Hagen"
+      ]
+    },
+    {
+      "id": 59,
+      "titulo": "2001: Odisea del espacio",
+      "titulo_original": "2001: A Space Odyssey",
+      "anio": 1968,
+      "director": "Stanley Kubrick",
+      "generos": [
+        "Aventura",
+        "Ciencia Ficción"
+      ],
+      "duracion": 149,
+      "calificacion": 8.3,
+      "pais": "Reino Unido",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Tras el descubrimiento de un misterioso monolito bajo la superficie lunar, una nave espacial con la supercomputadora HAL 9000 es enviada a Júpiter en una misión trascendental.",
+      "reparto_principal": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester",
+        "Douglas Rain"
+      ]
+    },
+    {
+      "id": 60,
+      "titulo": "Taxi Driver",
+      "titulo_original": "Taxi Driver",
+      "anio": 1976,
+      "director": "Martin Scorsese",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 114,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un veterano solitario e inestable trabaja como taxista nocturno en la decadente ciudad de Nueva York, donde el descontento lo empuja a una espiral de violencia justiciera.",
+      "reparto_principal": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Harvey Keitel"
+      ]
+    },
+    {
+      "id": 61,
+      "titulo": "Amélie",
+      "titulo_original": "Le fabuleux destin d'Amélie Poulain",
+      "anio": 2001,
+      "director": "Jean-Pierre Jeunet",
+      "generos": [
+        "Comedia",
+        "Romance"
+      ],
+      "duracion": 122,
+      "calificacion": 8.3,
+      "pais": "Francia",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Amélie es una joven inocente y bondadosa en París con su propio sentido de la justicia que decide cambiar la vida de las personas que la rodean para mejor.",
+      "reparto_principal": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Lorella Cravotta"
+      ]
+    },
+    {
+      "id": 62,
+      "titulo": "Blade Runner",
+      "titulo_original": "Blade Runner",
+      "anio": 1982,
+      "director": "Ridley Scott",
+      "generos": [
+        "Acción",
+        "Drama",
+        "Ciencia Ficción"
+      ],
+      "duracion": 117,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "En un futuro distópico, un cazador de androides 'blade runner' debe perseguir y retirar a cuatro replicantes sintéticos fugitivos que han regresado a la Tierra.",
+      "reparto_principal": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos"
+      ]
+    },
+    {
+      "id": 63,
+      "titulo": "Érase una vez en América",
+      "titulo_original": "Once Upon a Time in America",
+      "anio": 1984,
+      "director": "Sergio Leone",
+      "generos": [
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 229,
+      "calificacion": 8.3,
+      "pais": "Italia",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un exgánster judío regresa al Lower East Side de Manhattan décadas después de su auge criminal para confrontar los fantasmas y arrepentimientos de su juventud.",
+      "reparto_principal": [
+        "Robert De Niro",
+        "James Woods",
+        "Elizabeth McGovern",
+        "Joe Pesci"
+      ]
+    },
+    {
+      "id": 64,
+      "titulo": "La sociedad de los poetas muertos",
+      "titulo_original": "Dead Poets Society",
+      "anio": 1989,
+      "director": "Peter Weir",
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "duracion": 128,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un profesor de inglés poco ortodoxo en una estricta escuela preparatoria utiliza métodos poco convencionales para inspirar a sus alumnos a apasionarse por la poesía y vivir plenamente.",
+      "reparto_principal": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles"
+      ]
+    },
+    {
+      "id": 65,
+      "titulo": "Corazón valiente",
+      "titulo_original": "Braveheart",
+      "anio": 1995,
+      "director": "Mel Gibson",
+      "generos": [
+        "Biografía",
+        "Drama",
+        "Historia"
+      ],
+      "duracion": 178,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "El patriota escocés William Wallace lidera a sus compatriotas en una rebelión sangrienta para liberar a Escocia de la tiranía del rey Eduardo I de Inglaterra.",
+      "reparto_principal": [
+        "Mel Gibson",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen"
+      ]
+    },
+    {
+      "id": 66,
+      "titulo": "Toy Story",
+      "titulo_original": "Toy Story",
+      "anio": 1995,
+      "director": "John Lasseter",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "duracion": 81,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un vaquero de juguete se siente profundamente amenazado y celoso cuando una nueva y sofisticada figura de acción espacial se convierte en el nuevo juguete favorito de su dueño.",
+      "reparto_principal": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles",
+        "Jim Varney"
+      ]
+    },
+    {
+      "id": 67,
+      "titulo": "Aliens: El regreso",
+      "titulo_original": "Aliens",
+      "anio": 1986,
+      "director": "James Cameron",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Ciencia Ficción"
+      ],
+      "duracion": 137,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Ellen Ripley despierta décadas después del desastre original y acompaña a una tropa de marines coloniales a investigar la pérdida de contacto con una colonia humana.",
+      "reparto_principal": [
+        "Sigourney Weaver",
+        "Michael Biehn",
+        "Carrie Henn",
+        "Paul Reiser"
+      ]
+    },
+    {
+      "id": 68,
+      "titulo": "Jurassic Park: Parque Jurásico",
+      "titulo_original": "Jurassic Park",
+      "anio": 1993,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Ciencia Ficción"
+      ],
+      "duracion": 127,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un multimillonario crea un parque temático de dinosaurios clonados, pero un fallo de seguridad y sabotaje desata a los depredadores durante un recorrido de prueba.",
+      "reparto_principal": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough"
+      ]
+    },
+    {
+      "id": 69,
+      "titulo": "Oldboy",
+      "titulo_original": "Oldeuboi",
+      "anio": 2003,
+      "director": "Park Chan-wook",
+      "generos": [
+        "Acción",
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 120,
+      "calificacion": 8.4,
+      "pais": "Corea del Sur",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Después de ser secuestrado y retenido en una celda durante 15 años sin explicación, un hombre es liberado misteriosamente y tiene cinco días para descubrir quién lo hizo y por qué.",
+      "reparto_principal": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jeong",
+        "Kim Byeong-ok"
+      ]
+    },
+    {
+      "id": 70,
+      "titulo": "Coco",
+      "titulo_original": "Coco",
+      "anio": 2017,
+      "director": "Lee Unkrich, Adrián Molina",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "duracion": 105,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "El aspirante a músico Miguel, enfrentado a la ancestral prohibición de la música de su familia, entra en la Tierra de los Muertos para encontrar a su tatarabuelo, un legendario cantante.",
+      "reparto_principal": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach"
+      ]
+    },
+    {
+      "id": 71,
+      "titulo": "El lobo de Wall Street",
+      "titulo_original": "The Wolf of Wall Street",
+      "anio": 2013,
+      "director": "Martin Scorsese",
+      "generos": [
+        "Biografía",
+        "Comedia",
+        "Crimen"
+      ],
+      "duracion": 180,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Basada en la historia real de Jordan Belfort, desde su ascenso hasta convertirse en un adinerado corredor de bolsa que vive al límite de los excesos hasta su caída por corrupción.",
+      "reparto_principal": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie",
+        "Matthew McConaughey"
+      ]
+    },
+    {
+      "id": 72,
+      "titulo": "Batman inicia",
+      "titulo_original": "Batman Begins",
+      "anio": 2005,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 140,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Tras entrenar con su mentor en artes marciales y tácticas de engaño, Bruce Wayne regresa a Gotham para combatir el crimen bajo la identidad secreta de Batman.",
+      "reparto_principal": [
+        "Christian Bale",
+        "Michael Caine",
+        "Liam Neeson",
+        "Katie Holmes"
+      ]
+    },
+    {
+      "id": 73,
+      "titulo": "Gran Torino",
+      "titulo_original": "Gran Torino",
+      "anio": 2008,
+      "director": "Clint Eastwood",
+      "generos": [
+        "Drama"
+      ],
+      "duracion": 116,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un veterano descontento de la Guerra de Corea decide enderezar a su vecino adolescente asiático después de que este intentara robar su preciado auto de 1972.",
+      "reparto_principal": [
+        "Clint Eastwood",
+        "Bee Vang",
+        "Ahney Her",
+        "Christopher Carley"
+      ]
+    },
+    {
+      "id": 74,
+      "titulo": "La isla siniestra",
+      "titulo_original": "Shutter Island",
+      "anio": 2010,
+      "director": "Martin Scorsese",
+      "generos": [
+        "Misterio",
+        "Thriller"
+      ],
+      "duracion": 138,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "En 1954, un agente judicial federal investiga la misteriosa desaparición de una asesina internada en un hospital psiquiátrico de alta seguridad en una isla remota.",
+      "reparto_principal": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley",
+        "Max von Sydow"
+      ]
+    },
+    {
+      "id": 75,
+      "titulo": "Bastardos sin gloria",
+      "titulo_original": "Inglourious Basterds",
+      "anio": 2009,
+      "director": "Quentin Tarantino",
+      "generos": [
+        "Aventura",
+        "Drama",
+        "Guerra"
+      ],
+      "duracion": 153,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "En la Francia ocupada por los nazis, un escuadrón de soldados judíos estadounidenses trama un audaz plan para asesinar a los líderes del Tercer Reich en un cine parisino.",
+      "reparto_principal": [
+        "Brad Pitt",
+        "Diane Kruger",
+        "Eli Roth",
+        "Christoph Waltz"
+      ]
+    },
+    {
+      "id": 76,
+      "titulo": "Up: Una aventura de altura",
+      "titulo_original": "Up",
+      "anio": 2009,
+      "director": "Pete Docter, Bob Peterson",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "duracion": 96,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un anciano viudo de 78 años ata miles de globos a su casa para cumplir la promesa de toda la vida a su difunta esposa, llevando accidentalmente consigo a un entusiasta niño explorador.",
+      "reparto_principal": [
+        "Edward Asner",
+        "Christopher Plummer",
+        "Jordan Nagai",
+        "Bob Peterson"
+      ]
+    },
+    {
+      "id": 77,
+      "titulo": "Spider-Man: Un nuevo universo",
+      "titulo_original": "Spider-Man: Into the Spider-Verse",
+      "anio": 2018,
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "generos": [
+        "Animación",
+        "Acción",
+        "Aventura"
+      ],
+      "duracion": 117,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "El adolescente Miles Morales se convierte en el nuevo Spider-Man de su realidad y debe unirse a cinco héroes arácnidos de otras dimensiones para detener una amenaza multiversal.",
+      "reparto_principal": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali"
+      ]
+    },
+    {
+      "id": 78,
+      "titulo": "Fargo",
+      "titulo_original": "Fargo",
+      "anio": 1996,
+      "director": "Joel Coen, Ethan Coen",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Thriller"
+      ],
+      "duracion": 98,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Un inepto vendedor de autos de Minnesota contrata a dos criminales para secuestrar a su propia esposa y extorsionar a su adinerado suegro, pero el plan sale catastróficamente mal.",
+      "reparto_principal": [
+        "William H. Macy",
+        "Frances McDormand",
+        "Steve Buscemi",
+        "Peter Stormare"
+      ]
+    },
+    {
+      "id": 79,
+      "titulo": "Snatch: Cerdos y diamantes",
+      "titulo_original": "Snatch",
+      "anio": 2000,
+      "director": "Guy Ritchie",
+      "generos": [
+        "Comedia",
+        "Crimen"
+      ],
+      "duracion": 102,
+      "calificacion": 8.2,
+      "pais": "Reino Unido",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Promotores de boxeo sin escrúpulos, corredores de apuestas violentos, un gángster ruso y un grupo de ladrones incompetentes se disputan un valioso diamante robado.",
+      "reparto_principal": [
+        "Jason Statham",
+        "Brad Pitt",
+        "Benicio Del Toro",
+        "Stephen Graham"
+      ]
+    },
+    {
+      "id": 80,
+      "titulo": "Los sospechosos de siempre",
+      "titulo_original": "The Usual Suspects",
+      "anio": 1995,
+      "director": "Bryan Singer",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 106,
+      "calificacion": 8.5,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "El único superviviente de una violenta masacre en un barco narra los retorcidos sucesos que llevaron a cinco delincuentes a cruzarse en el camino de un cerebro criminal mitológico: Keyser Söze.",
+      "reparto_principal": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Chazz Palminteri",
+        "Benicio Del Toro"
+      ]
+    },
+    {
+      "id": 81,
+      "titulo": "El show de Truman",
+      "titulo_original": "The Truman Show",
+      "anio": 1998,
+      "director": "Peter Weir",
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "duracion": 103,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Un vendedor de seguros común y corriente descubre con desconcierto que toda su vida no es más que un gigantesco reality show televisado las 24 horas del día.",
+      "reparto_principal": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney",
+        "Noah Emmerich"
+      ]
+    },
+    {
+      "id": 82,
+      "titulo": "Intocables",
+      "titulo_original": "Intouchables",
+      "anio": 2011,
+      "director": "Olivier Nakache, Éric Toledano",
+      "generos": [
+        "Biografía",
+        "Comedia",
+        "Drama"
+      ],
+      "duracion": 112,
+      "calificacion": 8.5,
+      "pais": "Francia",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Tras quedar tetrapléjico por un accidente de parapente, un aristócrata adinerado contrata a un joven recién salido de prisión para que sea su cuidador.",
+      "reparto_principal": [
+        "François Cluzet",
+        "Omar Sy",
+        "Anne Le Ny",
+        "Audrey Fleurot"
+      ]
+    },
+    {
+      "id": 83,
+      "titulo": "Tiburón",
+      "titulo_original": "Jaws",
+      "anio": 1975,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Aventura",
+        "Horror",
+        "Thriller"
+      ],
+      "duracion": 124,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Cuando un gigantesco tiburón blanco devorador de hombres aterroriza a una comunidad isleña turística, el jefe de policía, un biólogo marino y un viejo marinero se unen para cazarlo.",
+      "reparto_principal": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss",
+        "Lorraine Gary"
+      ]
+    },
+    {
+      "id": 84,
+      "titulo": "Nacido para matar / Cara de guerra",
+      "titulo_original": "Full Metal Jacket",
+      "anio": 1987,
+      "director": "Stanley Kubrick",
+      "generos": [
+        "Drama",
+        "Guerra"
+      ],
+      "duracion": 116,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un pragmático infante de marina estadounidense observa los efectos deshumanizantes del brutal entrenamiento básico militar y los sangrientos horrores de la Guerra de Vietnam.",
+      "reparto_principal": [
+        "Matthew Modine",
+        "R. Lee Ermey",
+        "Vincent D'Onofrio",
+        "Adam Baldwin"
+      ]
+    },
+    {
+      "id": 85,
+      "titulo": "El gran Lebowski",
+      "titulo_original": "The Big Lebowski",
+      "anio": 1998,
+      "director": "Joel Coen, Ethan Coen",
+      "generos": [
+        "Comedia",
+        "Crimen"
+      ],
+      "duracion": 117,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "Jeff 'The Dude' Lebowski, confundido con un multimillonario de idéntico nombre, busca una compensación por su alfombra arruinada y termina envuelto en una red de secuestro y chantaje.",
+      "reparto_principal": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore",
+        "Steve Buscemi"
+      ]
+    },
+    {
+      "id": 86,
+      "titulo": "Fuego contra fuego",
+      "titulo_original": "Heat",
+      "anio": 1995,
+      "director": "Michael Mann",
+      "generos": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 170,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Un grupo de ladrones profesionales de élite de bancos empieza a sentir la intensa presión policial cuando un dedicado detective de homicidios de Los Ángeles sigue su rastro.",
+      "reparto_principal": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer",
+        "Jon Voight"
+      ]
+    },
+    {
+      "id": 87,
+      "titulo": "El crepúsculo de los dioses",
+      "titulo_original": "Sunset Boulevard",
+      "anio": 1950,
+      "director": "Billy Wilder",
+      "generos": [
+        "Drama",
+        "Cine Negro"
+      ],
+      "duracion": 110,
+      "calificacion": 8.4,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "Un guionista en dificultades financieras es contratado por una solitaria estrella del cine mudo que sueña con un triunfal regreso al cine de Hollywood.",
+      "reparto_principal": [
+        "William Holden",
+        "Gloria Swanson",
+        "Erich von Stroheim",
+        "Nancy Olson"
+      ]
+    },
+    {
+      "id": 88,
+      "titulo": "Metrópolis",
+      "titulo_original": "Metropolis",
+      "anio": 1927,
+      "director": "Fritz Lang",
+      "generos": [
+        "Drama",
+        "Ciencia Ficción"
+      ],
+      "duracion": 153,
+      "calificacion": 8.3,
+      "pais": "Alemania",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "En una ciudad futurista marcadamente dividida entre los planificadores de la superficie y la clase obrera del subsuelo, el hijo del gobernante se enamora de una profeta de la clase trabajadora.",
+      "reparto_principal": [
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Gustav Fröhlich",
+        "Rudolf Klein-Rogge"
+      ]
+    },
+    {
+      "id": 89,
+      "titulo": "Perdida",
+      "titulo_original": "Gone Girl",
+      "anio": 2014,
+      "director": "David Fincher",
+      "generos": [
+        "Drama",
+        "Misterio",
+        "Thriller"
+      ],
+      "duracion": 149,
+      "calificacion": 8.1,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "Cuando su esposa desaparece el día de su quinto aniversario de bodas, un hombre ve cómo el escrutinio mediático y policial lo coloca como el principal sospechoso.",
+      "reparto_principal": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris",
+        "Tyler Perry"
+      ]
+    },
+    {
+      "id": 90,
+      "titulo": "Toy Story 3",
+      "titulo_original": "Toy Story 3",
+      "anio": 2010,
+      "director": "Lee Unkrich",
+      "generos": [
+        "Animación",
+        "Aventura",
+        "Comedia"
+      ],
+      "duracion": 103,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Cuando su dueño Andy se prepara para ir a la universidad, los juguetes son entregados por error a una guardería infantil que pronto resulta no ser el paraíso esperado.",
+      "reparto_principal": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack",
+        "Ned Beatty"
+      ]
+    },
+    {
+      "id": 91,
+      "titulo": "Star Wars: Episodio VI - El regreso del Jedi",
+      "titulo_original": "Star Wars: Episode VI - Return of the Jedi",
+      "anio": 1983,
+      "director": "Richard Marquand",
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "duracion": 131,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Luke Skywalker intenta rescatar a Han Solo y confrontar al Emperador mientras la Alianza Rebelde lanza un ataque decisivo contra la segunda Estrella de la Muerte.",
+      "reparto_principal": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams"
+      ]
+    },
+    {
+      "id": 92,
+      "titulo": "La princesa Mononoke",
+      "titulo_original": "Mononoke-hime",
+      "anio": 1997,
+      "director": "Hayao Miyazaki",
+      "generos": [
+        "Animación",
+        "Acción",
+        "Aventura"
+      ],
+      "duracion": 134,
+      "calificacion": 8.4,
+      "pais": "Japón",
+      "clasificacion_edad": "+13",
+      "sinopsis": "En una búsqueda para curar una maldición mortal, un joven príncipe se encuentra atrapado en una guerra implacable entre los dioses del bosque y una comunidad minera.",
+      "reparto_principal": [
+        "Yôji Matsuda",
+        "Yuriko Ishida",
+        "Yûko Tanaka",
+        "Kaoru Kobayashi"
+      ]
+    },
+    {
+      "id": 93,
+      "titulo": "Indiana Jones y la última cruzada",
+      "titulo_original": "Indiana Jones and the Last Crusade",
+      "anio": 1989,
+      "director": "Steven Spielberg",
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "duracion": 127,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+13",
+      "sinopsis": "En 1938, después de que su padre desaparece en busca del legendario Santo Grial, el arqueólogo Indiana Jones emprende su búsqueda contra una fuerza nazi.",
+      "reparto_principal": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Alison Doody",
+        "Denholm Elliott"
+      ]
+    },
+    {
+      "id": 94,
+      "titulo": "El laberinto del fauno",
+      "titulo_original": "El laberinto del fauno",
+      "anio": 2006,
+      "director": "Guillermo del Toro",
+      "generos": [
+        "Drama",
+        "Fantasía",
+        "Guerra"
+      ],
+      "duracion": 118,
+      "calificacion": 8.2,
+      "pais": "España / México",
+      "clasificacion_edad": "+16",
+      "sinopsis": "En la España franquista de 1944, la joven hijastra de un despiadado oficial militar escapa hacia un misterioso y cautivador mundo de fantasía.",
+      "reparto_principal": [
+        "Ivana Baquero",
+        "Sergi López",
+        "Maribel Verdú",
+        "Doug Jones"
+      ]
+    },
+    {
+      "id": 95,
+      "titulo": "La caza",
+      "titulo_original": "Jagten",
+      "anio": 2012,
+      "director": "Thomas Vinterberg",
+      "generos": [
+        "Drama"
+      ],
+      "duracion": 115,
+      "calificacion": 8.3,
+      "pais": "Dinamarca",
+      "clasificacion_edad": "+16",
+      "sinopsis": "La vida de un maestro de jardín de infantes es destruida luego de que una inocente mentira infantil desata una histeria colectiva en una pequeña comunidad.",
+      "reparto_principal": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Annika Wedderkopp",
+        "Lasse Fogelstrøm"
+      ]
+    },
+    {
+      "id": 96,
+      "titulo": "El golpe",
+      "titulo_original": "The Sting",
+      "anio": 1973,
+      "director": "George Roy Hill",
+      "generos": [
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "duracion": 129,
+      "calificacion": 8.3,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "ATP",
+      "sinopsis": "Dos estafadores profesionales en la década de 1930 unen fuerzas para planear una intrincada y brillante venganza contra un jefe de la mafia despiadado.",
+      "reparto_principal": [
+        "Paul Newman",
+        "Robert Redford",
+        "Robert Shaw",
+        "Charles Durning"
+      ]
+    },
+    {
+      "id": 97,
+      "titulo": "Los Ángeles al desnudo / L.A. Confidential",
+      "titulo_original": "L.A. Confidential",
+      "anio": 1997,
+      "director": "Curtis Hanson",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 138,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "A principios de los años 50 en Los Ángeles, tres policías con métodos y principios opuestos investigan una serie de homicidios ligados a la corrupción institucional.",
+      "reparto_principal": [
+        "Kevin Spacey",
+        "Russell Crowe",
+        "Guy Pearce",
+        "Kim Basinger"
+      ]
+    },
+    {
+      "id": 98,
+      "titulo": "Rashomon",
+      "titulo_original": "Rashômon",
+      "anio": 1950,
+      "director": "Akira Kurosawa",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "duracion": 88,
+      "calificacion": 8.2,
+      "pais": "Japón",
+      "clasificacion_edad": "+13",
+      "sinopsis": "El asesinato de un samurái y la violación de su esposa en un bosque se relatan desde cuatro puntos de vista totalmente diferentes y contradictorios.",
+      "reparto_principal": [
+        "Toshirô Mifune",
+        "Machiko Kyô",
+        "Masayuki Mori",
+        "Takashi Shimura"
+      ]
+    },
+    {
+      "id": 99,
+      "titulo": "Sin lugar para los débiles / No es país para viejos",
+      "titulo_original": "No Country for Old Men",
+      "anio": 2007,
+      "director": "Joel Coen, Ethan Coen",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Thriller"
+      ],
+      "duracion": 122,
+      "calificacion": 8.2,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+18",
+      "sinopsis": "La violencia y el caos estallan cuando un cazador tropieza con un negocio de drogas que salió mal y se lleva una maleta con dos millones de dólares, perseguido por un asesino psicópata.",
+      "reparto_principal": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin",
+        "Woody Harrelson"
+      ]
+    },
+    {
+      "id": 100,
+      "titulo": "Oppenheimer",
+      "titulo_original": "Oppenheimer",
+      "anio": 2023,
+      "director": "Christopher Nolan",
+      "generos": [
+        "Biografía",
+        "Drama",
+        "Historia"
+      ],
+      "duracion": 180,
+      "calificacion": 8.9,
+      "pais": "Estados Unidos",
+      "clasificacion_edad": "+16",
+      "sinopsis": "La historia del físico teórico J. Robert Oppenheimer y su liderazgo en el Proyecto Manhattan durante la Segunda Guerra Mundial para desarrollar las primeras armas nucleares.",
+      "reparto_principal": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr."
+      ]
+    }
+  ]
+}
