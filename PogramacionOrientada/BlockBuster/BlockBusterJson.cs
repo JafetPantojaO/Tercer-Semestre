@@ -18,12 +18,18 @@ public class BlockBusterJson
     [JsonPropertyName("duracion")]
     public int duracion { get; set; }
 
-    [JsonPropertyName("Calificacion")]
+    [JsonPropertyName("calificacion")]
     public float calificacion { get; set; }
 
-    [JsonPropertyName("Pais")]
-    public string pais { get; set; }
+    [JsonPropertyName("pais")]
+    public string pais { get; set; } = "";
+}
 
+public class BlockBusterRespuestaJson
+{
+    [JsonPropertyName("total")]
+    public int total { get; set; }
 
-
+    [JsonPropertyName("peliculas")]
+    public List<BlockBusterJson> peliculas { get; set; } = new List<BlockBusterJson>();
 }

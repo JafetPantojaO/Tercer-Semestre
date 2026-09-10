@@ -1,0 +1,15 @@
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.AssemblyInfoInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.AssemblyInfo.cs
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.csproj.CoreCompileInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.sourcelink.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/bin/Debug/net10.0/BlockBuster
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/bin/Debug/net10.0/BlockBuster.deps.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/bin/Debug/net10.0/BlockBuster.runtimeconfig.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/bin/Debug/net10.0/BlockBuster.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/bin/Debug/net10.0/BlockBuster.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/refint/BlockBuster.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/BlockBuster.genruntimeconfig.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/BlockBuster/obj/Debug/net10.0/ref/BlockBuster.dll
