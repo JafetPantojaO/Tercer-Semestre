@@ -4,7 +4,7 @@ public class Copia
     {                                                                                                                                                              
     // Atributos de una copia física en Blockbuster                                                                                                            
     public int idCopia;             // Identificador de la copia física (ej. Copia 1, Copia 2)                                                                 
-        public Pelicula pelicula;       // Referencia a la Película (Composición)                                                                                  
+    public Pelicula pelicula;       // Referencia a la Película (Composición)                                                                                  
     public bool disponible;         // true = disponible en tienda, false = rentada                                                                            
     public string formato;          // Formato físico (ej. "DVD", "VHS", "Blu-ray")                                                                            
                                                                                                                                                                 

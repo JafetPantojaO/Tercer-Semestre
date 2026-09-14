@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text.Json;
 
@@ -6,7 +6,6 @@ class Program
 {
     static void Main()
     {
-        // 1. Leer el archivo JSON (nombre correcto: peliculas.json)
         string rutaArchivo = "peliculas.json";
         if (!File.Exists(rutaArchivo))
         {

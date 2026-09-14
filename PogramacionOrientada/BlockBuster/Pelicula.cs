@@ -34,8 +34,8 @@ public class Pelicula
     {
         this.id = data.id;
         this.nombre = data.nombre;
-        this.original = data.original;       // Corregido: data.original (en vez de data.titulo_original)
-        this.reparto = data.reparto ?? new List<string>(); // Corregido: data.reparto (en vez de data.reparto_principal)
+        this.original = data.original;       
+        this.reparto = data.reparto ?? new List<string>(); 
         this.duracion = data.duracion;
         this.calificacion = data.calificacion;
         this.pais = data.pais;

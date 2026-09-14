@@ -7,8 +7,14 @@ class Pokemon
     public string nombre;
     public List<string> tipos;
     public int nivel;
-    public int vida;
+    private int vida_;
     public int ataque;
+    
+    public int vida{
+        get { return vida; }
+        set { if( value < 0)
+                 vida_ = 0;}
+    }
 
     public Pokemon(){
         
@@ -18,8 +24,8 @@ class Pokemon
     {
         this.nombre = nombre_;
         this.tipos = new List<string> { "Normal" };
-        this.vida = vida_;
-        this.ataque = ataque_;
+        this.vida_ = vida;
+        this.ataque_ = ataque;
         this.nivel = 10;
 
     }
