@@ -6,7 +6,7 @@ class Pokemon
     
     public string nombre;
     public List<string> tipos;
-    public int nivel;
+    private int nivel_;
     private int vida_;
     public int ataque;
     
@@ -14,6 +14,12 @@ class Pokemon
         get { return vida; }
         set { if( value < 0)
                  vida_ = 0;}
+    }
+
+    public int nivel {
+        get { return nivel; }
+        set { if( value > 100 && value < 1 )
+                nivel_ =  }
     }
 
     public Pokemon(){
