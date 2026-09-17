@@ -6,20 +6,23 @@ class Pokemon
     
     public string nombre;
     public List<string> tipos;
-    public int nivel;
+    private int nivel_;
     private int vida_;
     public int ataque;
     
     public int Vida{
-        get { return _vida; }
+        get { return vida_; }
         set { if( value < 0)
                  vida_ = 0;}
     }
 
     public int nivel {
-        get { return nivel; }
-        set { if( value > 100 && value < 1 )
-                nivel_ =  }
+        get { return nivel_; }
+        set { if( value > 100 || value < 1 )
+               Console.WriteLine("Error: Nivel no valido");
+               else 
+               value = nivel_;
+            }
     }
 
     public Pokemon(){
