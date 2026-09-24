@@ -1,0 +1,5 @@
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/Debug/net10.0/PruebaExamen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/Debug/net10.0/PruebaExamen.AssemblyInfoInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/Debug/net10.0/PruebaExamen.AssemblyInfo.cs
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/Debug/net10.0/PruebaExamen.csproj.CoreCompileInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/Debug/net10.0/PruebaExamen.sourcelink.json

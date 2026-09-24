@@ -19,7 +19,6 @@ public class LocalGaming
     public void AgregarEquipo(Equipo nuevo)
     {
         inventario.Add(nuevo);
-
     }
 
     // 5. Asociacion --  Independientes (relación débil) -- Ningún objeto es dueño del otro.
@@ -28,7 +27,5 @@ public class LocalGaming
         double TotalCosto = horas * equipo.PrecioPorHora;
         Usuario.Saldo = Usuario.Saldo - totalCosto;
         Console.WriteLine($"El usuario {Usuario} rento el {equipo} por {horas} hora/s");
-
-
     }
 }
