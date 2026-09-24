@@ -4,7 +4,7 @@ using System;
 public class LocalGaming
 {
 
-    //Numero 4
+    //Numero 4. Agregacion "Tiene un" --  Independientes (el hijo sobrevive sin el padre)
     public string NombreLocal;
     public List<Equipo> inventario { get; set; }
 
@@ -12,7 +12,7 @@ public class LocalGaming
     public LocalGaming(string nombre)
     {
         NombreLocal = nombre;
-        inventario = New List<Equipo>();
+        inventario = new List<Equipo>();
     }
  
 
@@ -22,11 +22,12 @@ public class LocalGaming
 
     }
 
+    // 5. Asociacion --  Independientes (relación débil) -- Ningún objeto es dueño del otro.
     public void RentarEquipo(Equipo equipo, Gamer Usuario,  double horas)
     {
-        TotalTiempo = horas * 10;
-        Usuario.Saldo - TotalTiempo;
-        Console.WriteLine("El usuario {Usuario} rento el {equipo} por {horas} hora/s")
+        double TotalCosto = horas * equipo.PrecioPorHora;
+        Usuario.Saldo = Usuario.Saldo - totalCosto;
+        Console.WriteLine($"El usuario {Usuario} rento el {equipo} por {horas} hora/s");
 
 
     }

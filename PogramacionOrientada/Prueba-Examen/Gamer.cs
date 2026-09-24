@@ -5,8 +5,11 @@ public class Gamer
 
     private double _saldo;
 
+//3.Composicion 
     public Membresia MiMembresia;
 
+
+//1.Encapsulamiento
     public double Saldo
     {
         get { return _saldo; }
@@ -14,7 +17,7 @@ public class Gamer
         { 
             if (value < 0)
             {
-            Console.WriteLine("Saldo no posible");
+            _saldo = 0;
             }
             else
             {
@@ -23,10 +26,12 @@ public class Gamer
         }
     }
 
+//2.Constructores y sobrecarga
     public Gamer(string nickname_)
     {
         this.Nickname = nickname_;
         Saldo = 0;
+        //3.Composicion - Parte de" --- Depende de -- Si muere el padre, muere el hijo 
         MiMembresia = new Membresia();
         
         
