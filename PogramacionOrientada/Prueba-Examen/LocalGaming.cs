@@ -1,16 +1,22 @@
+using System.Collections.Generic;
+using System;
+
 public class LocalGaming
 {
     public string NombreLocal;
+    public List<Equipo> inventario { get; set; }
 
 
     public LocalGaming(string nombre)
     {
         NombreLocal = nombre;
-        List<
+        inventario = New List<Equipo>();
     }
  
 
-    public void RentarEquipo(Gamer cliente, Equipo pc, int horas)
+    public void AgregarEquipo(Equipo nuevo)
     {
+        inventario.Add(nuevo);
+
     }
 }
