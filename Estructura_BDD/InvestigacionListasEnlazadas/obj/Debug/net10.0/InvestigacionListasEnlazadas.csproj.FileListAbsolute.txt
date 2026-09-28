@@ -1,0 +1,15 @@
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/bin/Debug/net10.0/InvestigacionListasEnlazadas
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/bin/Debug/net10.0/InvestigacionListasEnlazadas.deps.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/bin/Debug/net10.0/InvestigacionListasEnlazadas.runtimeconfig.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/bin/Debug/net10.0/InvestigacionListasEnlazadas.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/bin/Debug/net10.0/InvestigacionListasEnlazadas.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.AssemblyInfoInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.AssemblyInfo.cs
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.csproj.CoreCompileInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.sourcelink.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/refint/InvestigacionListasEnlazadas.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/InvestigacionListasEnlazadas.genruntimeconfig.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/Estructura_BDD/InvestigacionListasEnlazadas/obj/Debug/net10.0/ref/InvestigacionListasEnlazadas.dll

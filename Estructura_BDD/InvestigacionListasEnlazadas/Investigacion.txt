@@ -1,0 +1,34 @@
+Un Tipo Abstracto de Dato (TAD) es una especificación matemática y lógica que define:
+1. Un conjunto de datos o elementos.
+2. Un conjunto de operaciones válidas sobre esos datos.
+3. El comportamiento esperado de dichas operaciones.
+
+El principio fundamental de un TAD es la abstracción y 
+el encapsulamiento: se define con total claridad que hace la 
+estructura de datos, sin importar **CÓMO** se implementa internamente a 
+nivel de memoria o algoritmos.
+
+
+Operaciones lista
+Las operaciones de una lista se clasifican según su propósito:
+
+Consulta 
+Count / Size: Retorna la cantidad actual de elementos en la lista.
+IsEmpty: Evalúa si la lista está vacía (Count == 0).
+Get(index) / Indexador this[index]: Retorna el elemento situado en la 
+posición indicada. Lanza error si el índice está fuera del rango .
+
+Inserción y Adición
+Add(item): Agrega un elemento al final de la lista.
+Insert(index, item):Inserta un elemento en una posición
+ específica. Los elementos existentes a partir de esa posición se desplazan un 
+ lugar hacia adelante.
+
+Modificación
+Set(index, item): Reemplaza el valor del elemento ubicado en 
+la posición indicada, sin alterar el tamaño de la lista.
+
+Eliminación
+Remove(item): Busca y elimina la primera aparición del elemento especificado. 
+Retorna un valor booleano indicando el éxito de la operación.
+Clear():Elimina todos los elementos contenidos en la lista, restableciendo su tamaño a cero.
