@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/PruebaExamen.csproj",
+      "projectUniqueName": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PruebaExamen/PruebaExamen.csproj",
       "projectName": "PruebaExamen",
-      "projectPath": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/PruebaExamen.csproj",
+      "projectPath": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PruebaExamen/PruebaExamen.csproj",
       "packagesPath": "/Users/phoneservicemid/.nuget/packages/",
-      "outputPath": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/Prueba-Examen/PruebaExamen/obj/",
+      "outputPath": "/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PruebaExamen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/phoneservicemid/.nuget/NuGet/NuGet.Config"

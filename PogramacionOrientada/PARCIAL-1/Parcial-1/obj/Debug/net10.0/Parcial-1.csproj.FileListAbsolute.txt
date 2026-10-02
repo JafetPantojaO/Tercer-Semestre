@@ -1,0 +1,15 @@
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.AssemblyInfoInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.AssemblyInfo.cs
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.csproj.CoreCompileInputs.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.sourcelink.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/bin/Debug/net10.0/Parcial-1
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/bin/Debug/net10.0/Parcial-1.deps.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/bin/Debug/net10.0/Parcial-1.runtimeconfig.json
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/bin/Debug/net10.0/Parcial-1.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/bin/Debug/net10.0/Parcial-1.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/refint/Parcial-1.dll
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.pdb
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/Parcial-1.genruntimeconfig.cache
+/Users/phoneservicemid/Desktop/VisualStudio/Modelo/Tercer Semestre/PogramacionOrientada/PARCIAL-1/Parcial-1/obj/Debug/net10.0/ref/Parcial-1.dll

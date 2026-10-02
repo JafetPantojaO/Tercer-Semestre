@@ -1,0 +1,1 @@
+        Espectador cliente2 = new Espectador("Juan"); 

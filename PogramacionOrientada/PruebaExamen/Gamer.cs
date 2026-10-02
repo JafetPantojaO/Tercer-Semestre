@@ -38,10 +38,10 @@ public class Gamer
 
     }
 
-    public Gamer(string nickname, double saldoincial)
+    public Gamer(string nickname, double saldoInicial)
     {
         this.Nickname = nickname;
-        Saldo = saldoinical;
+        Saldo = saldoInicial;
         MiMembresia = new Membresia();
 
     }

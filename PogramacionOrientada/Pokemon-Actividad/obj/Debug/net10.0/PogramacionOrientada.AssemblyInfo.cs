@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PogramacionOrientada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c783531ad1a4d975ffb483b0fe2a649c639190fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PogramacionOrientada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PogramacionOrientada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
