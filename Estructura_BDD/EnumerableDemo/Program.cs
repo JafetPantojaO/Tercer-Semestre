@@ -70,7 +70,11 @@ namespace EnumerableDemo
 
         public IEnumerator<T> GetEnumerator()
         {
-            return new DemoEnumerator<T>(this);
+            //return new DemoEnumerator<T>(this);
+            yield return x;
+            yield return y;
+            yield return z;
+            
         }
 
         IEnumerator IEnumerable.GetEnumerator()
