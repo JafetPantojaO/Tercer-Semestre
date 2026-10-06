@@ -23,12 +23,6 @@ namespace ListsDev
 
         public ArrayLists() : this(INITIAL_CAPACITY) { }
 
-
-         public T this[int index] 
-         { get => data[index]; 
-           set => data[index] = value; 
-        }
-
         public void Add(T element)
         {
             if(Size == Capacity)
@@ -39,6 +33,24 @@ namespace ListsDev
 
 
             data[++index] = element;
+        }
+
+         public T this[int index] 
+         { get => data[index]; 
+           set => data[index] = value; 
+        }
+
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i  = 0; i < Size; i++){
+                yield return data [i];
+            };
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
 
 
@@ -109,10 +121,6 @@ namespace ListsDev
             throw new NotImplementedException();
         }
 
-        public IEnumerator<T> GetEnumerator()
-        {
-            throw new NotImplementedException();
-        }
 
         public void Insert(int index, T element)
         {
@@ -129,9 +137,6 @@ namespace ListsDev
             throw new NotImplementedException();
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
-        }
+
     }
 }
