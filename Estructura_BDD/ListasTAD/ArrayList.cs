@@ -18,10 +18,15 @@ namespace ListsDev
         {
             Capacity = capacity < INITIAL_CAPACITY ? INITIAL_CAPACITY : capacity;
             data = new T[Capacity];
-            index = 0;
+            index = -1;
         }
 
         public ArrayLists() : this(INITIAL_CAPACITY) { }
+
+        public T Get(int index) => data[index];
+
+        public void Set(int index, T element) => data[index] = element;
+
 
         public void Add(T element)
         {
@@ -34,6 +39,7 @@ namespace ListsDev
 
             data[++index] = element;
         }
+
 
          public T this[int index] 
          { get => data[index]; 
@@ -53,7 +59,49 @@ namespace ListsDev
             return GetEnumerator();
         }
 
+        public void AddAll(T first, params T[] elements)
+        {
+            Add(first);
 
+            foreach (T e in elements){
+                Add(e);
+            }
+        }
+
+        public void Insert(int index, T element)
+        {
+           if(index < 0 || index >= Size)
+           {
+            throw new IndexOutOfRangeException("Index");
+           }
+
+           if(Size == Capacity)
+            {
+                Capacity *= 2;
+                Array.Resize(ref data, Capacity);
+            }
+
+            int indexToCopy = this.index +1;
+            while(indexToCopy > index)
+            {
+                data[indexToCopy] = data[indexToCopy - 1];
+                indexToCopy--;
+            }
+
+            data[index] = element;
+
+        
+        }
+
+        public void RemoveAt(int index)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Clear()
+        {
+            index = -1;
+        }
 
 
 
@@ -66,15 +114,7 @@ namespace ListsDev
 
         public bool Empty => throw new NotImplementedException();
 
-        public void Add(T element)
-        {
-            throw new NotImplementedException();
-        }
 
-        public void AddAll(T first, params T[] elements)
-        {
-            throw new NotImplementedException();
-        }
 
         public bool All(Predicate<T> condition)
         {
@@ -86,10 +126,6 @@ namespace ListsDev
             throw new NotImplementedException();
         }
 
-        public void Clear()
-        {
-            throw new NotImplementedException();
-        }
 
         public bool Contains(T element)
         {
@@ -116,26 +152,7 @@ namespace ListsDev
             throw new NotImplementedException();
         }
 
-        public T Get(int index)
-        {
-            throw new NotImplementedException();
-        }
 
-
-        public void Insert(int index, T element)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void RemoveAt(int index)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Set(int index, T element)
-        {
-            throw new NotImplementedException();
-        }
 
 
     }
